@@ -25,16 +25,7 @@ I fall in love with frontend development, driven by strong passion for transform
 
 - ⚡ Technologies I'm working with: JavaScript, React, HTML5, CSS3, SASS/SCSS, Bootstrap, NodeJS, Git, GitHub
 - 🛠 Extra tools I've achieved: Adobe Photoshop, Adobe Lightroom, Figma, Trello
-  
-### ✍ How to reach me:
-<a href="https://t.me/HellgaProkopovich">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hellga-prokopovich/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<br>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,6 +33,14 @@ I fall in love with frontend development, driven by strong passion for transform
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HellgaProkopovich&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+
+### ✍ How to reach me:
+<a href="https://t.me/HellgaProkopovich">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hellga-prokopovich/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <!--
