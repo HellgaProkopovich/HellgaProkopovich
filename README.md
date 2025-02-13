@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Hellga and I'm a frontend developer 👩‍💻 <br>
-I fall in love with frontend development, driven by strong passion for transforming code into visually appealing and user-friendly solutions.
+I have a deep appreciation for frontend development, driven by a strong passion for transforming code into visually appealing and user-friendly solutions.
 
 <!--
 ### ⚡ Technologies:
