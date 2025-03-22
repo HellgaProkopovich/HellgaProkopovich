@@ -24,10 +24,10 @@ I have a deep appreciation for frontend development, driven by a strong passion 
 -->
 
 - ⚡ Technologies I'm working with:
-<br/> JavaScript, React, Next.js, NodeJS, TypeScript,
-<br/> HTML5, CSS3, SASS/SCSS, Bootstrap, Tailwind CSS, Shadcn UI
+<br/> JavaScript, React, Next.js, NodeJS, TypeScript, DevTools, JSON API
+<br/> HTML5, CSS3, SASS/SCSS, BEM, Bootstrap, Tailwind CSS, Shadcn UI
 - 🛠 Extra tools I've achieved (for design & work):
-<br/> Adobe Photoshop, Adobe Lightroom, Figma, Trello
+<br/> Adobe Photoshop, Adobe Lightroom, Figma, Trello, Notion
 
 <br>
 
