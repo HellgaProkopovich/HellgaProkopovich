@@ -23,7 +23,8 @@ I have a deep appreciation for frontend development, driven by a strong passion 
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 -->
 
-- ⚡ Technologies I'm working with: JavaScript, React, HTML5, CSS3, SASS/SCSS, Bootstrap, NodeJS, Git, GitHub
+- ⚡ Technologies I'm working with: JavaScript, React, Next.js, NodeJS, TypeScript,
+HTML5, CSS3, SASS/SCSS, Bootstrap, Tailwind CSS, Shadcn UI
 - 🛠 Extra tools I've achieved: Adobe Photoshop, Adobe Lightroom, Figma, Trello
 
 <br>
